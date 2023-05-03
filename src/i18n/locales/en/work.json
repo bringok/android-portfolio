@@ -1,0 +1,29 @@
+{
+  "sectionTitle": "Work experience",
+  "info": [
+    {
+      "location": "Spread Group",
+      "city": "Leipzig, Germany",
+      "responsibility": "Software Engineer",
+      "description": ["Line 1", "Line 2"],
+      "start": "Dec 2021",
+      "end": "Present"
+    },
+    {
+      "location": "University of Vigo",
+      "city": "Vigo, Spain",
+      "responsibility": "Research and Development",
+      "description": ["Line 1", "Line 2"],
+      "start": "Feb 2020",
+      "end": "Nov 2021"
+    },
+    {
+      "location": "Muutech Monitoring Solutions SL",
+      "city": "Nigrán, Spain",
+      "responsibility": "Internship",
+      "description": ["Line 1", "Line 2"],
+      "start": "Jun 2019",
+      "end": "Jul 2019"
+    }
+  ]
+}

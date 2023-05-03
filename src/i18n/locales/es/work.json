@@ -1,0 +1,29 @@
+{
+  "sectionTitle": "Experiencia laboral",
+  "info": [
+    {
+      "location": "Spread Group",
+      "city": "Leipzig, Alemania",
+      "responsibility": "Ingeniero de software",
+      "description": ["Linea 1", "Linea 2"],
+      "start": "Dic 2021",
+      "end": "Actualidad"
+    },
+    {
+      "location": "Univerdad de Vigo",
+      "city": "Vigo, España",
+      "responsibility": "Investigación y Desarrollo",
+      "description": ["Linea 1", "Linea 2"],
+      "start": "Feb 2020",
+      "end": "Nov 2021"
+    },
+    {
+      "location": "Muutech Monitoring Solutions SL",
+      "city": "Nigrán, España",
+      "responsibility": "Prácticas de empresa",
+      "description": ["Linea 1", "Linea 2"],
+      "start": "Jun 2019",
+      "end": "Jul 2019"
+    }
+  ]
+}
