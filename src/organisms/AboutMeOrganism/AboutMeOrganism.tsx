@@ -10,7 +10,7 @@ import {
   Description,
 } from "./styles";
 import { aboutMe, item, title } from "./animations";
-import ProfilePic from "../../images/profile/ivan.png";
+import ProfilePic from "../../images/profile/pexels-phil-nguyen-1339538.jpg";
 // import PdfResumeEs from "../../images/pdf/resume-es.pdf";
 import PdfResumeEn from "../../images/pdf/Everette_Lim_Android_Developer_v2.pdf";
 import { HrefButton, SectionTitle } from "../../atoms";
