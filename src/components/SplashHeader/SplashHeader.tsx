@@ -1,5 +1,5 @@
 import { SplashLogo, SplashContainer, SplashText } from "./styles";
-import LogoSvg from "../../images/background/logo.svg";
+import LogoSvg from "../../images/background/icon_E.png";
 import { container, text } from "./animations";
 
 export const SplashHeader = () => {

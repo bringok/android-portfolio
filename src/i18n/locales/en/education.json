@@ -2,20 +2,12 @@
   "sectionTitle": "Education",
   "info": [
     {
-      "location": "University of Vigo",
-      "city": "Vigo, Spain",
-      "responsibility": "Degree in Engineering in Telecommunication Technologies",
+      "location": "National University of Singapore",
+      "city": "Queenstown, Singapore",
+      "responsibility": "Degree in Software Engineering",
       "description": ["Line 1", "Line 2"],
-      "start": "Aug 2016",
-      "end": "Jul 2020"
-    },
-    {
-      "location": "Oulu University of Applied Sciences",
-      "city": "Oulu, Finland",
-      "responsibility": "Software Development",
-      "description": ["Line 1", "Line 2"],
-      "start": "Aug 2019",
-      "end": "Dec 2019"
+      "start": "Sep 2014",
+      "end": "Sep 2018"
     }
   ]
 }

@@ -1,20 +1,16 @@
 {
   "sectionTitle": "Skills",
-  "info": [
+  "info": [ 
     {
-      "name": "React",
+      "name": "Java",
       "level": 35
     },
     {
-      "name": "Golang",
-      "level": 43
-    },
-    {
-      "name": "Javascript",
+      "name": "C#",
       "level": 79
     },
     {
-      "name": "Linux",
+      "name": "C++",
       "level": 54
     },
     {
@@ -22,55 +18,55 @@
       "level": 75
     },
     {
-      "name": "Git",
+      "name": "HTML",
       "level": 55
-    },
-    {
-      "name": "Java",
-      "level": 55
-    },
-    {
-      "name": "Android",
-      "level": 55
-    },
-    {
-      "name": "PostgreSQL",
-      "level": 55
-    },
-    {
-      "name": "NodeJS",
-      "level": 48
-    },
-    {
-      "name": "Docker",
-      "level": 33
     },
     {
       "name": "CSS",
+      "level": 55
+    },
+    {
+      "name": "Javascript",
+      "level": 55
+    },
+    {
+      "name": "Flutter",
+      "level": 55
+    },
+    {
+      "name": "Ionic",
+      "level": 48
+    },
+    {
+      "name": "React Native",
+      "level": 33
+    },
+    {
+      "name": "Xamarin",
       "level": 77
     },
     {
-      "name": "HTML",
+      "name": "Apache Cordova",
       "level": 66
     },
     {
-      "name": "Swift",
+      "name": "JQuery Mobile",
       "level": 34
     },
     {
-      "name": "Windows",
+      "name": "Android Studio",
       "level": 66
     },
     {
-      "name": "Angular",
+      "name": "AngAndroid SDKular",
       "level": 41
     },
     {
-      "name": "Bash",
+      "name": "Eclipse",
       "level": 66
     },
     {
-      "name": "C",
+      "name": "SQL",
       "level": 66
     },
     {
@@ -82,32 +78,24 @@
       "level": 77
     },
     {
-      "name": "NPM",
+      "name": "Oracle",
       "level": 70
     },
     {
-      "name": "Typescript",
+      "name": "Linux",
       "level": 35
     },
     {
-      "name": "VSCode",
+      "name": "Windows",
       "level": 85
     },
     {
-      "name": "Yarn",
+      "name": "Android",
       "level": 56
     },
     {
-      "name": "Kubernetes",
+      "name": "MacOs",
       "level": 33
-    },
-    {
-      "name": "Ubuntu",
-      "level": 70
-    },
-    {
-      "name": "Qt",
-      "level": 50
     }
   ]
 }

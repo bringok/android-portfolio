@@ -2,28 +2,23 @@
   "sectionTitle": "Work experience",
   "info": [
     {
-      "location": "Spread Group",
-      "city": "Leipzig, Germany",
-      "responsibility": "Software Engineer",
-      "description": ["Line 1", "Line 2"],
-      "start": "Dec 2021",
+      "location": "Waveshadow Technologies",
+      "city": "Jurong west, Singapore",
+      "responsibility": "Android Developer",
+      "description": ["Developed 5+ applications within the allotted time by deploying C, C++, JavaScript, etc. to write reusable programs", "Integrated Google login feature for the Greengaze Mobile app to increase ~25% app usage"
+    , "Accelerated the app development process with the help of Android Studio to build quality applications for 100+ devices."],
+      "start": "Jan 2022",
       "end": "Present"
     },
     {
-      "location": "University of Vigo",
-      "city": "Vigo, Spain",
-      "responsibility": "Research and Development",
-      "description": ["Line 1", "Line 2"],
-      "start": "Feb 2020",
-      "end": "Nov 2021"
-    },
-    {
-      "location": "Muutech Monitoring Solutions SL",
-      "city": "Nigrán, Spain",
-      "responsibility": "Internship",
-      "description": ["Line 1", "Line 2"],
-      "start": "Jun 2019",
-      "end": "Jul 2019"
+      "location": "Angelmobile",
+      "city": "Jurong west, Singapore",
+      "responsibility": "Software Developer",
+      "description": ["Created an online PDF library to enable users to download and read the hosted files as per requirement",
+    "Enhanced the application's UI design by 25% via HTML5, CSS3, etc. as per the latest trend in various platforms",
+  "Succeeded in acquiring 100+ registered users within the first months of employment"],
+      "start": "Apr 2019",
+      "end": "Dec 2021"
     }
   ]
 }

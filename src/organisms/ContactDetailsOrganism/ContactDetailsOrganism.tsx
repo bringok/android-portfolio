@@ -10,7 +10,7 @@ import {
   Type,
   Data,
 } from "./styles";
-import { FaPhoneAlt, FaEnvelope } from "react-icons/fa";
+import { FaGithubAlt, FaEnvelope } from "react-icons/fa";
 import { card, container, icon, item } from "./animations";
 
 export const ContactDetailsOrganism = () => {
@@ -28,7 +28,7 @@ export const ContactDetailsOrganism = () => {
             <Item key={key} variants={card}>
               <IconWrapper variants={icon}>
                 {contact.type === "email" && <FaEnvelope />}
-                {contact.type === "phone" && <FaPhoneAlt />}
+                {contact.type === "github" && <FaGithubAlt />}
               </IconWrapper>
               <Info>
                 <Type variants={item}>{contact.text}</Type>

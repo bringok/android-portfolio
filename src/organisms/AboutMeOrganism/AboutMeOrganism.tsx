@@ -11,19 +11,20 @@ import {
 } from "./styles";
 import { aboutMe, item, title } from "./animations";
 import ProfilePic from "../../images/profile/ivan.png";
-import PdfResumeEs from "../../images/pdf/resume-es.pdf";
-import PdfResumeEn from "../../images/pdf/resume-en.pdf";
+// import PdfResumeEs from "../../images/pdf/resume-es.pdf";
+import PdfResumeEn from "../../images/pdf/Everette_Lim_Android_Developer_v2.pdf";
 import { HrefButton, SectionTitle } from "../../atoms";
 
 export const AboutMeOrganism = () => {
   const [t, i18n] = useTranslation("about");
 
   const resume = (): string => {
-    if (["en", "en-US"].includes(i18n.language)) {
-      return PdfResumeEn;
-    } else if (["es", "es-ES"].includes(i18n.language)) {
-      return PdfResumeEs;
-    }
+    // if (["en", "en-US"].includes(i18n.language)) {
+    //   return PdfResumeEn;
+    // } else if (["es", "es-ES"].includes(i18n.language)) {
+    //   return PdfResumeEs;
+    // }
+    // return PdfResumeEn;
     return PdfResumeEn;
   };
 

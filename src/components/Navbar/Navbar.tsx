@@ -11,7 +11,7 @@ import {
   NavMenu,
 } from "./styles";
 import { NavbarProps } from "../../types";
-import LogoSvg from "../../images/background/logo.svg";
+import LogoSvg from "../../images/background/icon_E.png";
 import { Sidebar } from "../Sidebar/Sidebar";
 
 const Stroke = (props: MotionProps) => {
@@ -91,7 +91,7 @@ export const Navbar = ({
             </NavItem>
           ))}
         </NavMenu>
-        <LangMenu>
+        {/* <LangMenu>
           <LangItem
             onClick={() => i18n.changeLanguage("en")}
             current={["en", "en-US"].includes(i18n.language) ? 1 : 0}
@@ -104,7 +104,7 @@ export const Navbar = ({
           >
             ES
           </LangItem>
-        </LangMenu>
+        </LangMenu> */}
         <HamburgerMenu onClick={() => setSidebarOpen(!isSidebarOpen)}>
           <MenuBars isOpen={isSidebarOpen} />
         </HamburgerMenu>

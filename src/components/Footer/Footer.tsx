@@ -7,7 +7,7 @@ import {
   LogoImg,
 } from "./styles";
 import { RiCopyrightLine } from "react-icons/ri";
-import LogoSvg from "../../images/background/logo.svg";
+import LogoSvg from "../../images/background/icon_E.png";
 import { ResumeIcon } from "../../atoms";
 
 export const Footer = () => {

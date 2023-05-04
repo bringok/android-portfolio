@@ -71,11 +71,10 @@ export const ResumeIcon = ({
             animate={{ opacity: 1 }}
             whileHover={{ opacity: 0.85, scale: 1.05 }}
           >
-            {icon.name === "linkedin" && <FaLinkedinIn />}
             {icon.name === "github" && <FaGithub />}
-            {icon.name === "skype" && <FaSkype />}
+            {/* {icon.name === "skype" && <FaSkype />}
             {icon.name === "facebook" && <FaFacebookF />}
-            {icon.name === "instagram" && <FaInstagram />}
+            {icon.name === "instagram" && <FaInstagram />} */}
           </SocialIcon>
         ))}
       </SocialWrapper>

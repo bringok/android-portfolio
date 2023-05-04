@@ -1,6 +1,6 @@
 import { useTranslation } from "react-i18next";
 import { LinkButton } from "../../atoms";
-import LogoSvg from "../../images/background/logo.svg";
+import LogoSvg from "../../images/background/icon_E.png";
 import * as NotFoundAnimation from "../../images/lottie/404.json";
 import { button, container } from "./animations";
 import { Animation, Container, Logo, LogoWrap } from "./styles";
